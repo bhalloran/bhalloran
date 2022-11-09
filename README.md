@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bhalloran
+- 👀 I’m interested in making the world a better place through code.
+- 🌱 I’m currently learning python primarily, and CS in general.
+- 💞️ I’m looking to collaborate on anything that will enhance my skills while making a difference!
+- 📫 I'll let you know how to reach me once I have that figured out!
